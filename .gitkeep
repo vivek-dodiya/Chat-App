@@ -1,6 +1,6 @@
-/controllers
-/middlewares
-/models
-/public
-/routes
-/views
+./controllers
+./middlewares
+./models
+./public
+./routes
+./views
